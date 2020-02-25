@@ -13,4 +13,5 @@ February File 2020
 
 #Freight Cost Analysis
 [https://public.tableau.com/profile/sargam6270#!/vizhome/FebTableauFrieghtAnalysisSargam/D001ReceiverCostProfile?publish=yes]
+2/25/2020 Update: Added two new Viz: Route Comparison, Route Outliers
 
